@@ -1,4 +1,4 @@
 PythonScripts
 =============
 
-Diverse Python scripts jeg har laget.
+Diverse Python scripts.
