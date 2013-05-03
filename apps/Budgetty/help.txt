@@ -1,0 +1,10 @@
+		## Console Commands ##
+new	- Creates a blank budget
+import 	- Imports a previously saved budget
+budgets - Prints a list of all saved budgets
+income	- Adds income to currently loaded budget
+expense - Adds expense to currently loaded budget
+balance	- Prints balance of loaded budget
+delete	- Takes in ID and deletes entry
+help	- Prints this text
+exit 	- Exits the program
